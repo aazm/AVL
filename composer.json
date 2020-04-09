@@ -1,0 +1,20 @@
+{
+    "name": "aborovkov/avl",
+    "description": "AVL tree implementation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexey Borovkov",
+            "email": "lucky.aaz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DS\\" : "src/"
+        }
+    },
+    "scripts": {
+        "cli": "php cli/exec.php < /dev/tty"
+    }
+}
