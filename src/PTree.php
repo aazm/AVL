@@ -1,5 +1,10 @@
 <?php
 
+/*
+Copy from: http://web.archive.org/web/20090617110918/http://www.openasthra.com/c-tidbits/printing-binary-trees-in-ascii/
+Source: http://web.archive.org/web/20071224095835/http://www.openasthra.com:80/wp-content/uploads/2007/12/binary_trees1.c
+*/
+
 namespace DS;
 
 class PTree extends AVL
